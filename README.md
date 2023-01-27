@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dominik</h1>
 <h3 align="center">A passionate frontend and backend developer</h3>
 
-- 🔭 I’m currently working on **GdzieTeraz**
+- 🔭 I’m currently working on **BarberShop**
 
 - 🌱 I’m currently learning **.NET, Web Api and Entity Framework**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dominik-gasior](https://github.com/dominik-gasior)
 
-- 💬 Ask me about **Flutter, MySQL, C#**
+- 💬 Ask me about **Flutter, SQL, C#**
 
 - 📫 How to reach me **dominikgasior03@gmail.com**
 
