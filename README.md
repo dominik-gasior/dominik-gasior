@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **BarberShop**
 
-- 🌱 I’m currently learning **.NET, Web Api and Entity Framework**
+- 🌱 I’m currently learning **new technologies in C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dominik-gasior](https://github.com/dominik-gasior)
 
