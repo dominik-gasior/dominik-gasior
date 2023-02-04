@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dominik-gasior](https://github.com/dominik-gasior)
 
-- 💬 Ask me about **Flutter, SQL, C#**
+- 💬 Ask me about **.NET, EF Core, Flutter, SQL, C#**
 
 - 📫 How to reach me **dominikgasior03@gmail.com**
 
