@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dominik</h1>
 <h3 align="center">A passionate frontend and backend developer</h3>
 
-- 🔭 I’m currently working on **BarberShop**
+- 🔭 I’m currently working on **BarberShop(https://github.com/dominik-gasior/BarberShop)**
 
 - 🌱 I’m currently learning **new technologies in C#**
 
