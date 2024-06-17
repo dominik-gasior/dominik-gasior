@@ -1,9 +1,19 @@
-# siema 👋
+# Hello
 
-I'm .net developer but also I like devops and security issues.
+I specialize to create complex solutions for business.
+Backend developer with strong knowledge of:
+- ORMs,
+- Database,
+- Architectures, 
+- Patterns,
+- Cloud,
+- Docker and deploy,
+- Microservices
 
-dotnet, efcore, dapper, sql, architecture (primary microservices and modular)
+I focus on clear and simple code. I prefer the minimalist work system. I confess rule "less is more".
+I'm fascinated books and automotive.
 
-books, cycling, cars, motors and fast code
+Do you have any questions? 
+I'm ready to help you :)
 
-when i have a free time i try to code something
+I'm interesting in: books, cycling, cars, motocycles and fast code
